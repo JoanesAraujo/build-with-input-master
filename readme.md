@@ -2,7 +2,7 @@ Habilitar dados de entrada no Sublime Text2
 ================
 
 
-Um plugin para o suplime text 2 que permite executar scripts que aceitam entrada. Como na imagem abaixo, por exemplo.
+Plugin para o "suplime text 2" que permite executar scripts que aceitam entrada. Como na imagem abaixo, por exemplo.
 
 ![](https://raw.github.com/eric-wieser/build-with-input/screenshots/first.png)
 
